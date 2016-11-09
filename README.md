@@ -10,7 +10,7 @@ Copyright (C) 2016 Wang Renxin. All rights reserved.
 
 本演示暂时只提供 Win32 平台可执行文件。
 
-运行需 VC++ 2015 运行时库，如需安装请执行 redist/vc_redist.x86.exe。
+运行需 VC++ 2015 运行时库，如需安装请执行 /redist/vc_redist.x86.exe。
 
 启动演示请执行以下批处理文件：
 
@@ -43,3 +43,7 @@ Siri是谁？
 你给我唱个歌吧。
 给我讲个笑话呢？
 ~~~~~~~~~~
+
+# 二、技术说明
+
+TODO
