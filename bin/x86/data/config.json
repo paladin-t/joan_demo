@@ -1,0 +1,64 @@
+{
+	"locales" : {
+		"chinese" : {
+			"knowledge" : {
+				"path" : [
+					"data/knowledge/knowledge.json"
+				]
+			},
+
+			"words" : {
+				"path" : [
+					"data/language/word.txt",
+					"data/language/synonym.txt"
+				]
+			},
+
+			"usages" : {
+				"path" : [
+					"data/language/usage.json",
+					"data/language/inference.json"
+				]
+			},
+
+			"idioms" : {
+				"path" : [
+					"data/language/idiom.json"
+				]
+			},
+
+			"db" : {
+				"path" : "data/hippocampus.db"
+			},
+
+			"neuro" : {
+				"path" : "data/neuro/mind_script.lua",
+				"mind" : [
+					"data/neuro/mind_constant.json",
+					"data/neuro/mind.json"
+				]
+			},
+
+			"self" : {
+				"name" : [ "Joan", "self" ]
+			},
+
+			"web" : {
+				"path" : "data/web/www/",
+				"ports" : [ "80", "8000", "8080", "81", "8001", "8081" ],
+				"socket_script" : "data/web/socket_script.lua",
+				"post_script" : "data/web/post_script.lua",
+				"bot_name" : "Joan",
+				"human_name" : "Me"
+			},
+
+			"options" : {
+				"show_ast_if_matched" : true,
+				"show_ast_if_not_matched" : true
+			}
+		}
+	},
+
+	"input_locale" : "chinese",
+	"output_locale" : "chinese"
+}
