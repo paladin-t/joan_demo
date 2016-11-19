@@ -175,9 +175,11 @@ Attributive := adj. Auxiliary; <Composited;>
 
 ![](https://github.com/paladin-t/joan_demo/blob/master/img/13.png)
 
-另外，`Query` 元语也使用数据驱动的方式描述。
+另外，`Query` 元语也使用数据驱动的方式描述：
 
 ![](https://github.com/paladin-t/joan_demo/blob/master/img/14.png)
+
+每条规则包含针对具体的施用类，采用哪种 `Query` 元语和参数进行查询。
 
 系统还支持其他语义理解描述方式，如 Lua 脚本等。暂略。
 
