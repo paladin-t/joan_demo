@@ -14,7 +14,7 @@ Copyright (C) 2016 Wang Renxin. All rights reserved.
 
 本 demo 暂时只提供 Win32 平台二进制文件。
 
-运行需 VC++ 2015 运行时库，如需安装请执行 [/redist/vc_redist.x86.exe](https://github.com/paladin-t/joan_demo/blob/master/redist/vc_redist.x86.exe)。
+运行需 VC++ 2015 运行时库，如需安装请执行 [/redist/vc_redist.x86.exe](https://github.com/paladin-t/joan_demo/raw/master/redist/vc_redist.x86.exe)。
 
 请执行以下批处理文件启动 demo：
 
