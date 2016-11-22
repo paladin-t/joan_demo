@@ -53,7 +53,7 @@
 			},
 
 			"options" : {
-				"show_ast_if_matched" : true,
+				"show_ast_if_matched" : false,
 				"show_ast_if_not_matched" : true
 			}
 		}
