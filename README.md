@@ -1,6 +1,6 @@
-The Joan NLP system.
+# The Joan NLP system.
 
-Copyright (C) 2016 Wang Renxin. All rights reserved.
+**Copyright (C) 2016 Wang Renxin. All rights reserved.**
 
 [Email](mailto:hellotony521@qq.com)
 
