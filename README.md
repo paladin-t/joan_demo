@@ -1,4 +1,4 @@
-# The Joan NLP system.
+# The Joan NLP System
 
 **Copyright (C) 2016 Wang Renxin. All rights reserved.**
 
