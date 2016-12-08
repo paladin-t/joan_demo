@@ -4,6 +4,10 @@
 
 [Email](mailto:hellotony521@qq.com)
 
+了解更多人工智能资讯请搜索我的微信公众号“ai_the_one”或扫码关注：
+
+![](https://github.com/paladin-t/joan_demo/blob/master/img/qc.png)
+
 # 一、概述
 
 本软件是自然语言处理（Natural Language Processing, NLP）的一个演示程序，实现了一套自然语言问答系统。
