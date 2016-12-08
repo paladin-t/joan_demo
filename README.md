@@ -6,7 +6,7 @@
 
 了解更多人工智能资讯请搜索我的微信公众号“ai_the_one”或扫码关注：
 
-![](https://github.com/paladin-t/joan_demo/blob/master/img/qc.png)
+![](https://github.com/paladin-t/joan_demo/blob/master/img/qc.jpg)
 
 # 一、概述
 
