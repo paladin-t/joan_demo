@@ -39,6 +39,10 @@
 				]
 			},
 
+			"linear" : {
+				"path" : "data/linear/linear.json"
+			},
+
 			"self" : {
 				"name" : [ "Joan", "self" ]
 			},
