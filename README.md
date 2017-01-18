@@ -1,6 +1,6 @@
 # The Joan NLP System
 
-**Copyright (C) 2016 - 2017 Wang Renxin. All rights reserved.**
+**Copyright (C) 2016 - 2017 [Wang Renxin](https://github.com/paladin-t). All rights reserved.**
 
 [Email](mailto:hellotony521@qq.com)
 
