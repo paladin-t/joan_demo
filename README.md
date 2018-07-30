@@ -1,7 +1,5 @@
 # The Joan NLP System
 
-**Copyright (C) 2016 - 2017 [Wang Renxin](https://github.com/paladin-t). All rights reserved.**
-
 # 一、概述
 
 本软件是自然语言处理（Natural Language Processing, NLP）的一个演示程序，实现了一套自然语言问答系统。暂时只提供中文支持。使用 C++/Lua 实现，具有计算、内存资源占用少的优点，可直接运行于各种规格的机器，包括服务器、家用机、平板、手机，甚至嵌入式平台。
